@@ -10,14 +10,13 @@
 
 </p>
 
-Para um maior entendimento do código deste repositório, [assista nosso vídeo no Youtube, clique aqui.](https://www.youtube.com/watch?v=56_F59cIT8M)
+Para um maior entendimento do código deste repositório, [assista nosso vídeo no Youtube, clique aqui.](https://www.youtube.com/watch?v=55_TZK2eL3Y)
 
 ## :rocket: Tecnologias utilizaas
 
 * Java 21
 * Spring Boot
-* AWS SQS (Simple Queue Service)
-* Localstack
+* Design Pattern Prototype
 
 :mag: Baixe o projeto e teste você mesmo na prática.
 
